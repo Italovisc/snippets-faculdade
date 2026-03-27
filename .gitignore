@@ -1,2 +1,7 @@
 *.exe
 .vscode/
+.venv/
+
+*_out.txt
+*_out.png
+*_out.jpeg
